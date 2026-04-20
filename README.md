@@ -21,11 +21,12 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 - CSV (Data Source)  
 
 ## 📸 Dashboard Preview
+
 ### 🔹 Customer Insights Dashboard
-![Customer Dashboard](powerbi/Credit Card Customer Insights Dashboard.png)
+![Customer Dashboard](powerbi/Credit%20Card%20Customer%20Insights%20Dashboard.png)
 
 ### 🔹 Transaction Analytics Dashboard
-![Transaction Dashboard](powerbi/Credit Card Transaction Analytics Dashboard.png)
+![Transaction Dashboard](powerbi/Credit%20Card%20Transaction%20Analytics%20Dashboard.png)
 
 ## 📐 Key DAX Calculations
 - Revenue = Annual Fees + Total Transaction Amount + Interest Earned  
@@ -42,3 +43,6 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 - Top contributing states: **TX, NY, CA (~68%)**  
 - Activation Rate: **57.5%**  
 - Delinquent Rate: **6.06%** 
+
+## 🚀 How to Use
+Download the `.pbix` file → Open in Power BI Desktop → Refresh data → Explore dashboard
